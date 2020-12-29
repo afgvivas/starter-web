@@ -12,3 +12,6 @@ more
 holi
 chau
 bye
+
+###Copyright 
+Git.copyright 
