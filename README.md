@@ -2,6 +2,7 @@
 
 this is the 1st example of rebase
 more changes for myfeature branch
+updating line
 
 ## Introduction
 this is a section about introducing the repository
