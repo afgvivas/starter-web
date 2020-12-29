@@ -20,3 +20,4 @@ please fork this repository
 
 ###Copyright 
 Git.copyright modified
+all rights reserved
