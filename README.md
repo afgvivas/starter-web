@@ -1,5 +1,7 @@
 # Starter web project
 
+this is the 1st example of rebase
+
 ## Introduction
 this is a section about introducing the repository
 ## purpose
